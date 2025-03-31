@@ -1,4 +1,4 @@
-## Lanuages Known sofar
+<img src="/Images/LanSofar.png">
 <div style="width: inherit;height: 20; text-align: center;">
   <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Rolua">
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua/Luau">
@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" alt="javascript">
 </div>
 
-## Lanuages with little to barly any
+<img src="/Images/LittleKno.png">
 <div style="width: inherit;height: 20; text-align: center;">
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash">
