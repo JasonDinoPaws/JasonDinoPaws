@@ -1,5 +1,5 @@
 <img src="/Images/LanSofar.png">
-<div style="width: inherit;height: 20; text-align: center;align-items: center;">
+<div style="text-align: center;align-items: center;margin: 10px;">
   <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Rolua">
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua/Luau">
   <img src="https://skillicons.dev/icons?i=python" alt="Python">
@@ -10,7 +10,7 @@
 </div>
 
 <img src="/Images/LittleKno.png">
-<div style="width: inherit;height: 20; text-align: center;align-items: center;">
+<div style="text-align: center;align-items: center;margin: 10px;">
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash">
   <img src="https://skillicons.dev/icons?i=c" alt="c">
