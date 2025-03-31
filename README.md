@@ -1,3 +1,7 @@
+<img src="/Images/About.png">
+Hello i am under the water
+
+---
 <img src="/Images/LanSofar.png">
 <div style="text-align: center;align-items: center;margin: 10px;align="center"">
   <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Rolua">
@@ -8,6 +12,7 @@
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GameMakerStudio">
   <img src="https://skillicons.dev/icons?i=javascript" alt="javascript">
 </div>
+
 ---
 <img src="/Images/LittleKno.png">
 <div style="text-align: center;align-items: center;margin: 10px;align="center"">
