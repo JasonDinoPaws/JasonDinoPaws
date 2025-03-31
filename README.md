@@ -11,8 +11,8 @@
 
 ## Lanuages with little to barly any
 <div style="width: inherit;height: 20; text-align: center;">
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash">
-  <img src="https://skillicons.dev/icons?i=haxeflixel" alt="haxeflixel">
-  <img src="https://skillicons.dev/icons?i=c" alt="c">
   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino">
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash">
+  <img src="https://skillicons.dev/icons?i=c" alt="c">
+  <img src="https://skillicons.dev/icons?i=haxeflixel" alt="haxeflixel">
 </div>
