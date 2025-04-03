@@ -24,8 +24,15 @@
 
 ---
 <img src="/Images/Achive.png">
-- Achived 3rd/2nd place in Cyberquest 2025 at lockheed martin with a score of 2200 solved 22
-- Placed 752 globally 7% and 84 5% in US Highschool in picoctf 2025
+<p>
+  - Achieved 3rd/2nd place in Cyberquest 2025 at lockheed martin with a score of 2200 and solved 22
+  - Placed 752/10460 globally and 84/1817 in US Highschool in picoctf 2025
+  - placed 1st in a game jam out of like 30
+</p>
 
 ---
 <img src="/Images/Projec.png">
+<p>
+  - Rumbi - A robot looking like the robot in a hat in time with some security flaws that real rumba's have
+  - Bluetooth game - A project that explains the history of bluetooth up till december 2024 and demonstrating why you shouldn't always allow connections to unknown devices
+</p>
