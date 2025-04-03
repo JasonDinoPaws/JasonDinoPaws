@@ -31,5 +31,5 @@
 
 ---
 <img src="/Images/Projec.png">
-<h6>Rumbi</h6>,<p>A robot looking like the robot in a hat in time with some security flaws that real rumba's have</p>
-<h6>Bluetooth game</h6><p>A project that explains the history of bluetooth up till december 2024 and demonstrating why you shouldn't always allow connections to unknown devices</p>
+<h5>Rumbi</h5><p>A robot looking like the robot in a hat in time with some security flaws that real rumba's have</p>
+<h5>Bluetooth game</h5><p>A project that explains the history of bluetooth up till december 2024 and demonstrating why you shouldn't always allow connections to unknown devices</p>
