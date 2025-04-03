@@ -24,11 +24,10 @@
 
 ---
 <img src="/Images/Achive.png">
-<p>
-  - Achieved 3rd/2nd place in Cyberquest 2025 at lockheed martin with a score of 2200 and solved 22
+<p>- Achieved 3rd/2nd place in Cyberquest 2025 at lockheed martin with a score of 2200 and solved 22</p>
   - Placed 752/10460 globally and 84/1817 in US Highschool in picoctf 2025
   - placed 1st in a game jam out of like 30
-</p>
+
 
 ---
 <img src="/Images/Projec.png">
