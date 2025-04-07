@@ -1,6 +1,7 @@
-WIP
 <img src="/Images/About.png">
-
+<p>
+  Just some random person who got into coding at the age of 11 with roblox sudio that later became way more crazy
+</p>
 
 ---
 <img src="/Images/LanSofar.png">
@@ -26,6 +27,7 @@ WIP
 ---
 <img src="/Images/Achive.png">
 <p>- Achieved 3rd/2nd place in Cyberquest 2025 at lockheed martin with a score of 2200 and solved 22</p>
+<p>- Achieved 3rd place in OreCTF 2025 at Coloradio school of mines with a score of like 4400</p>
 <p>- Placed 752/10460 globally and 84/1817 in US Highschool in picoctf 2025</p>
 <p>- placed 1st in a game jam out of like 30</p>
 
